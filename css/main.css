@@ -1,0 +1,33 @@
+body {
+  font-size: 30px;
+  margin-top: 200px;
+}
+
+h1{
+ font-size: 55px;
+}
+h2{
+  font-size: 45px;
+}
+#one {
+  font-family: Helvetica, sans-serif;
+  color: rgb(31, 187, 253);
+  background: rgb(145, 79, 158);
+}
+
+#two {
+  font-family: Helvetica, sans-serif;
+  color: rgb(91, 248, 253);
+  background: rgb(173, 173, 245);
+  /* background: rgb(0, 0, 0); */
+}
+
+#one a {
+  text-transform: uppercase;
+  color: rgb(0, 255, 242);
+}
+
+#two a {
+  text-transform: uppercase;
+  color: rgb(0, 255, 42);
+}
